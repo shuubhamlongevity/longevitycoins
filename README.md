@@ -1,0 +1,2 @@
+# longevitycoins
+coin contract
