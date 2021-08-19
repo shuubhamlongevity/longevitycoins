@@ -1,5 +1,55 @@
 pragma solidity 0.5.16;
 
+/**
+WHERE TOKENS WILL GO
+Longevity InTime technology / LongevityCoin (LONG):
+● Product software & hardware development
+● Permanent Apps upgrade
+● AntiCoronaVirus app release in stores
+● B2B SAAS products developments: AI predictive
+algorithms, Structuring medical data,
+Depersonalization of medical profiles method
+● Marketing campaigns of Apps in more regions
+● Container pre-sales
+● Develop first Longevity Marketplace, Longevity Shop,
+Longevity Game based on current app
+● Develop from collected bio data first digital biobank
+● IPO through SPAC, to be the first among longevity
+companies
+Other Anti-Aging initiatives / AntiAgeCoin (AGE)
+● Launching second AGE coin related to funding fundamental
+researches & clinical trials on humans for breaking
+longevity problem
+● AI algorithms development for clinical trials simulations
+(outcome will take weeks instead of decades)
+● Anti-Aging drugs,vaccines, treatments discoveries with
+proprietary AI algorithms
+● Launch the First Longevity Scientific Resort on Maldives
+for high net worth individuals. Special offers for major
+holders
+● Through petitions involve world’s population to make
+governments to fund fundamental researches & trials in
+another scale
+● Bring longevity industry to another level
+*/ 
+
+
+/**
+HOW YOU CAN USE LONG & AGE TOKENS
+Longevity InTime mobile apps subscription
+Longevity Marketplace services
+Longevity Shop products
+Awards in Longevity Game
+(gamification part) for reaching health milestones
+Donate (sacrifice) to longevity technologies development
+Longevity Scientific Resort services
+Support relevant petitions
+*/
+
+
+
+
+
 interface IBEP20 {
   /**
    * @dev Returns the amount of tokens in existence.
