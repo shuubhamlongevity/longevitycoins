@@ -1,7 +1,26 @@
 pragma solidity 0.5.16;
 
 /**
-WHERE TOKENS WILL GO
+PARTICIPATE IN
+
+FIRST LONGEVITY TOKEN
+
+LONG - official first LongevityCoin. 
+
+A decentralized platform to manage your own longevity & affect on humanity’s longevity, to get access
+through longevity marketplace to latest industry achievements & participate in their development
+LongevityCoin - first cryptocurrency with an authentic health purpose for the humanity.
+
+Will create trust & security
+
+It’s Binance Smart Chain BEP-20 coin.
+
+The total supply is 1 trillion (not minable) to be distributed as follows:
+60% three public rounds, 20% founders, advisors, team, reserve, marketing team,
+10% one private round, 10% developers, growth initiatives, ecosystem, bounty hunters
+
+
+WHERE LONG TOKENS WILL GO
 Longevity InTime technology / LongevityCoin (LONG):
 ● Product software & hardware development
 ● Permanent Apps upgrade
@@ -35,7 +54,7 @@ another scale
 
 
 /**
-HOW YOU CAN USE LONG & AGE TOKENS
+HOW YOU CAN USE LONG TOKENS
 Longevity InTime mobile apps subscription
 Longevity Marketplace services
 Longevity Shop products
